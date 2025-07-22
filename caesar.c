@@ -1,8 +1,8 @@
-#include <cs50.h>
 #include <ctype.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <cs50.c>
 
 // Make sure program was run with just one command-line argument
 // Make sure every character in argv[1] is a digit
